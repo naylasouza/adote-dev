@@ -1,17 +1,23 @@
 .logo {
-    
     width: 200px;
-    margin: 30px;
+    /* margin: 30px; */
   }
   .navbar{
-    background-color: #b53b3b; 
+    background-color: #000000; 
   }
 
-  .nav-link{
-    color:rgb(211, 102, 102)
+  .navbar-light .navbar-nav .nav-link{
+      color: #ffff;
+      
   }
-
+  .navbar-light .navbar-nav .nav-link:hover {
+    color: #ffff;
+    
+  }
+  .navbar-brand{
+      padding: 50px;
+  }
   .btn-outline-success {
-    color: #aaaa;
-    border-color: #fffaaaaf;
+    color: #ffff;
+    border-color: #ffff;
 }
