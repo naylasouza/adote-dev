@@ -15,9 +15,16 @@
     
   }
   .navbar-brand{
-      padding: 50px;
+      padding: 30px;
   }
   .btn-outline-success {
     color: #ffff;
     border-color: #ffff;
 }
+
+.img-banner {
+    height: 64vh;
+    object-fit: cover;
+    object-position: 0 46%;
+    width: 100vw;
+  }
