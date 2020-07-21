@@ -28,3 +28,8 @@
     object-position: 0 46%;
     width: 100vw;
   }
+
+.titulosobre, p{
+    text-align: center;
+    
+}
