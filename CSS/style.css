@@ -1,0 +1,17 @@
+.logo {
+    
+    width: 200px;
+    margin: 30px;
+  }
+  .navbar{
+    background-color: #b53b3b; 
+  }
+
+  .nav-link{
+    color:rgb(211, 102, 102)
+  }
+
+  .btn-outline-success {
+    color: #aaaa;
+    border-color: #fffaaaaf;
+}
