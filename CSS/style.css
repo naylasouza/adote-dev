@@ -29,7 +29,27 @@
     width: 100vw;
   }
 
-.titulosobre, p{
+.titulo_linha, .containersobre p{
     text-align: center;
     
+}
+/* se tirar a linha vai la pra cima  */
+.titulo_linha{
+    position: relative;
+}
+
+.titulo_linha::before{
+    width: 100%;
+    height: 2px;
+    background-color: #afb6bd;
+    content: "";
+    top: 50%;
+    position: absolute;
+    left: 0;
+}
+.titulo_linha span{
+    padding: 1px 15px 0;
+    position: relative;
+    z-index: 0;
+    background-color: #fff;
 }
