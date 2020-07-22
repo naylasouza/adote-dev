@@ -53,3 +53,14 @@
     z-index: 0;
     background-color: #fff;
 }
+
+.card-group{
+    
+    /*  */
+    width: 100%;
+    
+}
+.card{
+    height: 50%;
+    margin: 30px;
+}
