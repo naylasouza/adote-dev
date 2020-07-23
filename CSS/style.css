@@ -73,6 +73,9 @@ p, .footer{
     height: 50%;
     margin: 30px;
 }
+.card-img-top{
+    width: 50px;
+}
 .footer{
     background-color: black;
     text-align: center;
