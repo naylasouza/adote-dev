@@ -1,9 +1,15 @@
+p, .footer{
+    font-family: 'Catamaran', sans-serif;
+}
 .logo {
     width: 200px;
     /* margin: 30px; */
   }
   .navbar{
     background-color: #000000; 
+    /* position: fixed;
+    width: 100%;
+    z-index: 3; */
   }
 
   .navbar-light .navbar-nav .nav-link{
@@ -21,21 +27,24 @@
     color: #ffff;
     border-color: #ffff;
 }
-
 .img-banner {
     height: 64vh;
     object-fit: cover;
     object-position: 0 46%;
     width: 100vw;
+    /* margin-top: 200px; */
+    /* padding-bottom: 4%; */
   }
 
 .titulo_linha, .containersobre p{
-    text-align: center;
-    
+    text-align: center; 
+    font-family: 'Catamaran', sans-serif;
 }
 /* se tirar a linha vai la pra cima  */
 .titulo_linha{
     position: relative;
+    margin-bottom: 40px;  
+    margin-top: 50px;
 }
 
 .titulo_linha::before{
@@ -63,4 +72,14 @@
 .card{
     height: 50%;
     margin: 30px;
+}
+.footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    
+}
+.rede_social_footer{
+    color: white;
+    
 }
