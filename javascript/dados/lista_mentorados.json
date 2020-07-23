@@ -1,0 +1,44 @@
+{
+    "dados":[
+        {
+            "nome":"Amanda pereira1",
+            "habilidades":["javascript", "css"],
+            "foto_url":"https://lh3.googleusercontent.com/SPnmSmSNjj61kjB95di1gEoypWulIPsq5V8E-sqgujiiFsdfjca3A4J1mO4FLlA-8YdBQw=s85"
+        },
+        {
+            "nome":"Amanda pereira2",
+            "habilidades":["javascript", "css"],
+            "foto_url":"https://avatars1.githubusercontent.com/u/61170577?s=460&u=77bdf68e09ee732789837961cb56b3a6c71198f5&v=4"
+        },
+        {
+            "nome":"Amanda pereira3",
+            "habilidades":["javascript", "css"],
+            "foto_url":"https://avatars1.githubusercontent.com/u/61170577?s=460&u=77bdf68e09ee732789837961cb56b3a6c71198f5&v=4"
+        },
+        {
+            "nome":"Amanda pereira4",
+            "habilidades":["javascript", "css"],
+            "foto_url":"https://avatars1.githubusercontent.com/u/61170577?s=460&u=77bdf68e09ee732789837961cb56b3a6c71198f5&v=4"
+        },
+        {
+            "nome":"Amanda pereira5",
+            "habilidades":["javascript", "css"],
+            "foto_url":"https://avatars1.githubusercontent.com/u/61170577?s=460&u=77bdf68e09ee732789837961cb56b3a6c71198f5&v=4"
+        },
+        {
+            "nome":"Amanda pereira6",
+            "habilidades":["javascript", "css"],
+            "foto_url":"https://avatars1.githubusercontent.com/u/61170577?s=460&u=77bdf68e09ee732789837961cb56b3a6c71198f5&v=4"
+        },
+        {
+            "nome":"Amanda pereira7",
+            "habilidades":["javascript", "css"],
+            "foto_url":"https://avatars1.githubusercontent.com/u/61170577?s=460&u=77bdf68e09ee732789837961cb56b3a6c71198f5&v=4"
+        },
+        {
+            "nome":"Amanda pereira8",
+            "habilidades":["javascript", "css"],
+            "foto_url":"https://avatars1.githubusercontent.com/u/61170577?s=460&u=77bdf68e09ee732789837961cb56b3a6c71198f5&v=4"
+        }
+    ]
+}
