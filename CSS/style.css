@@ -1,20 +1,15 @@
-p, .footer{
+body{
     font-family: 'Catamaran', sans-serif;
 }
 .logo {
     width: 200px;
-    /* margin: 30px; */
   }
   .navbar{
     background-color: #000000; 
-    /* position: fixed;
-    width: 100%;
-    z-index: 3; */
   }
 
   .navbar-light .navbar-nav .nav-link{
       color: #ffff;
-      
   }
   .navbar-light .navbar-nav .nav-link:hover {
     color: #ffff;
@@ -23,7 +18,7 @@ p, .footer{
   .navbar-brand{
       padding: 30px;
   }
-  .btn-outline-success {
+.btn-outline-success {
     color: #ffff;
     border-color: #ffff;
 }
@@ -32,10 +27,11 @@ p, .footer{
     object-fit: cover;
     object-position: 0 46%;
     width: 100vw;
-    /* margin-top: 200px; */
-    /* padding-bottom: 4%; */
   }
-
+ .textosobre{
+      margin-left: 40px;
+      margin-right: 40px;
+  }
 .titulo_linha, .containersobre p{
     text-align: center; 
     font-family: 'Catamaran', sans-serif;
@@ -46,7 +42,6 @@ p, .footer{
     margin-bottom: 40px;  
     margin-top: 50px;
 }
-
 .titulo_linha::before{
     width: 100%;
     height: 2px;
@@ -62,27 +57,42 @@ p, .footer{
     z-index: 0;
     background-color: #fff;
 }
-
 .card-group{
-    
-    /*  */
     width: 100%;
-    
 }
 .card{
     height: 50%;
     margin: 30px;
 }
+.card-title{
+    font-size: 30px;
+}
 .card-img-top{
-    width: 50px;
+    width: 100%;
+}
+.rede_pessoal {
+    color: black;
+    font-size: 22px;
+}
+.rede_pessoal:hover{
+    color: brown;
+}
+.card-redes li{
+    float: left;
+    margin-right: 10px;
+}
+.card-redes{
+    list-style: none;
+    padding: 0;
 }
 .footer{
     background-color: black;
     text-align: center;
     color: white;
-    
+    padding-top: 15px;
+    padding-bottom: 30px;
 }
 .rede_social_footer{
     color: white;
-    
+   font-size: 25px;  
 }
