@@ -1,44 +1,92 @@
 {
-    "dados":[
+    "dados": [
         {
-            "nome":"Amanda pereira1",
-            "habilidades":["javascript", "css"],
-            "foto_url":"https://lh3.googleusercontent.com/SPnmSmSNjj61kjB95di1gEoypWulIPsq5V8E-sqgujiiFsdfjca3A4J1mO4FLlA-8YdBQw=s85"
+            "nome": "Carlos Pereira",
+            "github": "https://github.com/naylasouza",
+            "linkedin": "https://www.linkedin.com/in/naylasouzaribeiro/",
+            "twitter": "https://twitter.com/NaylaRibeiro20",
+            "habilidades": [
+                "Carreira",
+                "React"
+            ],
+            "foto_url": "https://images.unsplash.com/photo-1515522775943-e02e2c68fcb9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80"
         },
         {
-            "nome":"Amanda pereira2",
-            "habilidades":["javascript", "css"],
-            "foto_url":"https://avatars1.githubusercontent.com/u/61170577?s=460&u=77bdf68e09ee732789837961cb56b3a6c71198f5&v=4"
+            "nome": "Teresa da Silva",
+            "github": "",
+            "linkedin": "",
+            "twitter": "",
+            "habilidades": [
+                "javascript",
+                "css"
+            ],
+            "foto_url": "https://images.unsplash.com/photo-1505421031134-e57263cae630?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1456&q=80"
         },
         {
-            "nome":"Amanda pereira3",
-            "habilidades":["javascript", "css"],
-            "foto_url":"https://avatars1.githubusercontent.com/u/61170577?s=460&u=77bdf68e09ee732789837961cb56b3a6c71198f5&v=4"
+            "nome": "Gabriel Rocha",
+            "github": "",
+            "linkedin": "",
+            "twitter": "",
+            "habilidades": [
+                "Vue",
+                "css"
+            ],
+            "foto_url": "https://images.unsplash.com/photo-1450133064473-71024230f91b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80"
         },
         {
-            "nome":"Amanda pereira4",
-            "habilidades":["javascript", "css"],
-            "foto_url":"https://avatars1.githubusercontent.com/u/61170577?s=460&u=77bdf68e09ee732789837961cb56b3a6c71198f5&v=4"
+            "nome": "Amanda Conde",
+            "github": "",
+            "linkedin": "",
+            "twitter": "",
+            "habilidades": [
+                "Carreira",
+                "css"
+            ],
+            "foto_url": "https://images.unsplash.com/photo-1506255378356-95ff805d40fa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1506&q=80"
         },
         {
-            "nome":"Amanda pereira5",
-            "habilidades":["javascript", "css"],
-            "foto_url":"https://avatars1.githubusercontent.com/u/61170577?s=460&u=77bdf68e09ee732789837961cb56b3a6c71198f5&v=4"
+            "nome": "Aline Souza",
+            "github": "",
+            "linkedin": "",
+            "twitter": "",
+            "habilidades": [
+                "Carreira",
+                "css"
+            ],
+            "foto_url": "https://images.unsplash.com/photo-1567962235135-911c1c3f6d5f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
         },
         {
-            "nome":"Amanda pereira6",
-            "habilidades":["javascript", "css"],
-            "foto_url":"https://avatars1.githubusercontent.com/u/61170577?s=460&u=77bdf68e09ee732789837961cb56b3a6c71198f5&v=4"
+            "nome": "Talita Ribeiro",
+            "github": "",
+            "linkedin": "",
+            "twitter": "",
+            "habilidades": [
+                "Caminho das pedras",
+                "css"
+            ],
+            "foto_url": "https://images.unsplash.com/photo-1576911898894-897e6d5b7623?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
         },
         {
-            "nome":"Amanda pereira7",
-            "habilidades":["javascript", "css"],
-            "foto_url":"https://avatars1.githubusercontent.com/u/61170577?s=460&u=77bdf68e09ee732789837961cb56b3a6c71198f5&v=4"
+            "nome": "Gabriela Lopes",
+            "github": "",
+            "linkedin": "",
+            "twitter": "",
+            "habilidades": [
+                "javascript",
+                "css"
+            ],
+            "foto_url": "https://images.unsplash.com/photo-1493624001981-62175f903cb0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
         },
         {
-            "nome":"Amanda pereira8",
-            "habilidades":["javascript", "css"],
-            "foto_url":"https://avatars1.githubusercontent.com/u/61170577?s=460&u=77bdf68e09ee732789837961cb56b3a6c71198f5&v=4"
+            "nome": "Sofia Martins",
+            "github": "",
+            "linkedin": "",
+            "twitter": "",
+            "habilidades": [
+                "javascript",
+                "css"
+            ],
+            "foto_url": "https://images.unsplash.com/photo-1591618828412-c1a160a7fb20?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
         }
     ]
 }

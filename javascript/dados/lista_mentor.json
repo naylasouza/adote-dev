@@ -1,44 +1,69 @@
 {
     "dados":[
+    
     {
-        "nome":"cabrita1",
-        "habilidades":["javascript", "css"],
-        "foto_url":"https://t1.ea.ltmcdn.com/pt/images/4/1/1/coelho_angora_oryctolagus_cuniculus_23114_0_600.jpg"
+        "nome":"Larissa Antonela",
+        "github":"",
+        "linkedin":"",
+        "twitter":"",
+        "habilidades":["Vue", "React"],
+        "foto_url":"https://images.unsplash.com/photo-1552157194-da6d1320a741?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
     },
     {
-        "nome":"cachorro2",
-        "habilidades":["javascript", "css"],
-        "foto_url":"https://t2.ea.ltmcdn.com/pt/images/4/1/1/esquilo_vermelho_sciurus_vulgaris_23114_1_600.jpg"
+        "nome":"Natalia Pereira",
+        "github":"",
+        "linkedin":"",
+        "twitter":"",
+        "habilidades":["Carreira", "css"],
+        "foto_url":"https://images.unsplash.com/photo-1511945863317-d60e146e9016?ixlib=rb-1.2.1&auto=format&fit=crop&w=1337&q=80"
     },
     {
-        "nome":"leao3",
-        "habilidades":["javascript", "css"],
-        "foto_url":"https://t2.ea.ltmcdn.com/pt/images/4/1/1/doninha_de_patas_pretas_mustela_nigripes_23114_2_600.jpg"
+        "nome":"Leonarda Dias",
+        "github":"",
+        "linkedin":"",
+        "twitter":"",
+        "habilidades":["javascript", "React"],
+        "foto_url":"https://images.unsplash.com/photo-1588571590812-47c47362b56a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
     },
     {
-        "nome":"deuso",
-        "habilidades":["javascript", "css"],
-        "foto_url":"https://t2.ea.ltmcdn.com/pt/images/4/1/1/foca_monge_do_mediterraneo_monachus_monachus_23114_3_600.jpg"
+        "nome":"Leona Silva",
+        "github":"",
+        "linkedin":"",
+        "twitter":"",
+        "habilidades":["Html", "Carreira"],
+        "foto_url":"https://images.unsplash.com/photo-1532791098078-26eb3312c46d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
     },
     {
-        "nome":"banana",
-        "habilidades":["javascript", "css"],
-        "foto_url":"https://t1.ea.ltmcdn.com/pt/images/4/1/1/canguru_bennett_arboricola_dendrolagus_bennettianus_23114_4_600.jpg"
+        "nome":"Barbara Divino",
+        "github":"",
+        "linkedin":"",
+        "twitter":"",
+        "habilidades":["Caminho das pedras", "css"],
+        "foto_url":"https://images.unsplash.com/photo-1524590012731-a189985520db?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
     },
     {
-        "nome":"estela6",
+        "nome":"Ester Dores",
+        "github":"",
+        "linkedin":"",
+        "twitter":"",
         "habilidades":["javascript", "css"],
-        "foto_url":"https://t1.ea.ltmcdn.com/pt/images/4/1/1/leopardo_das_neves_panthera_uncia_23114_5_600.jpg"
+        "foto_url":"https://images.unsplash.com/photo-1455503521443-c39d5b861bc4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"
     },
     {
-        "nome":"brilhosa7",
+        "nome":"Antonella Silva",
+        "github":"",
+        "linkedin":"",
+        "twitter":"",
         "habilidades":["javascript", "css"],
-        "foto_url":"https://t1.ea.ltmcdn.com/pt/images/4/1/1/pika_de_lli_ochotona_iliensis_23114_6_600.jpg"
+        "foto_url":"https://images.unsplash.com/photo-1571179499026-d890d75a41d9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
     },
     {
-        "nome":"carneira8",
+        "nome":"Daniela Aparecida",
+        "github":"",
+        "linkedin":"",
+        "twitter":"",
         "habilidades":["javascript", "css"],
-        "foto_url":"https://t1.ea.ltmcdn.com/pt/images/4/1/1/chinchila_comum_chinchilla_lanigera_23114_9_600.jpg"
+        "foto_url":"https://images.unsplash.com/photo-1507298338772-4f102796b498?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1353&q=80"
     }
 ]
 }
